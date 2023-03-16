@@ -1,5 +1,5 @@
-models\Comment.class
-models\User.class
-web\Web.class
-main\App.class
-models\Post.class
+models/Post.class
+main/App.class
+models/User.class
+web/Web.class
+models/Comment.class
