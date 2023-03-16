@@ -12,6 +12,7 @@ public class App
     private Web web = new Web();
     public static void main( String[] args )
     {
+        // System.out.println("Hello World");
         // TODO: add scanner and read user's inputs, and hanlde them
     }
     // TODO: add methods for each user input
